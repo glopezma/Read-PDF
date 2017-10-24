@@ -1,0 +1,499 @@
+﻿Exhibit                                                                   https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...             
+                                                                                                                                                           
+                                                                                                                                                           
+           STATEMENTS OF CONSOLIDATED INCOME AND COMPREHENSIVE INCOME                                                                                      
+           (thousands of dollars except per common share data)                                                                                             
+                                                                                                                                                           
+                                                                                       Year Ended December 31,                                             
+                                                                         2016                            2015                    2014                     
+                                                                                                                                                          
+           Net sales                                                   $ 11,855,602    $                 11,339,304    $         11,129,533               
+           Cost of goods sold                                            5,933,337                       5,780,078               5,965,049                
+                                                                                                                                                          
+           Gross profit                                                  5,922,265                       5,559,226               5,164,484                
+           Percent to net sales                                                      50.0%                       49.0%                  46.4%             
+                                                                                                                                                          
+           Selling, general and administrative expenses                  4,159,435                       3,913,518               3,822,966                
+           Percent to net sales                                                      35.1%                       34.5%                  34.3%             
+                                                                                                                                                          
+           Other general expense - net                                                          12,368          30,268                 37,482             
+           Impairment of goodwill and trademarks                                                10,688                                                    
+           Interest expense                                                                    154,088          61,791                 64,205             
+           Interest and net investment income                                       (4,960)                     (1,399)               (2,995)             
+                                                                                                                                                          
+           Other (income) expense - net                                                        (4,587)   6,082                       (15,400)             
+           Income before income taxes                                    1,595,233                       1,548,966               1,258,226                
+           Income taxes                                                                        462,530   495,117                      392,339             
+                                                                                                                                                          
+           Net income                                                  $ 1,132,703    $                  1,053,849    $               865,887             
+                                                                                                                                                          
+           Net income per common share:(1)                                                                                                                
+           Basic                                                       $ 12.33    $                      11.43    $                      9.00             
+           Diluted                                                     $ 11.99    $                      11.15    $                      8.77             
+                                                                                                                                                          
+           C1) Presented under the treasury stock method. See Note 15.                                                                                    
+                                                                                                                                                          
+                                                                         Year Ended December 31,                                                          
+                                                                         2016                            2015                    2014                     
+           Net income                                                  $ 1,132,703    $                  1,053,849    $               865,887             
+                                                                                                                                                          
+           Other comprehensive income (loss), net of tax:                                                                                                 
+                                                                                                                                                          
+           Foreign currency translation adjustments                                           (18,648)         (128,245)            (103,441)             
+                                                                                                                                                          
+                                                                                                                                                          
+              Pension and other postretirement benefit adjustments:                                                                                       
+           Amounts recognized in Other                                                                                                                    
+           comprehensive loss d)                                                              (28,385)           7,974               (56,536)             
+           Amounts reclassified from Other                                                                                                                
+           comprehensive loss d)                                                                 7,635           5,847                  8,980             
+                                                                                              (20,750)          13,821               (47,556)             
+                                                                                                                                                          
+           Unrealized net gains (losses) on available-for-sale                                                                                            
+           securities:                                                                                                                                    
+           Amounts recognized in Other                                                                                                                    
+           comprehensive loss ,3’                                                                1,046          (1,191)                   366             
+                                                                                                                                                          
+           Amounts reclassified from Other                                                                                                                
+           comprehensive loss                                                                       89   478                            (283)             
+                                                                                                 1,135   (713)                             83             
+                                                                                                                                                           
+                                                                                                                                                           
+47 of 101                                                                                                                               8/7/2017 11:59 AM  
+Exhibit                                                                                                         https://www.sec.gOv/Archives/edgar/data/89800/000008980017000005/...      
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+             Unrealized net gains on cash flow hedges:                                                                                                                                    
+                                                                                                                                                                                          
+                                       Amounts recognized in Other                                                                                                                        
+            comprehensive loss(5)                                                                                        85,007                                                          
+                                                                                                                                                                                         
+                                                                                                                                                                                         
+            Other comprehensive income (loss)                                                                            46,744          (115.137)                   (150,914)           
+            Comprehensive income                                                                     $           1,179,447    $          938,712 S                     714,973           
+                                                                                                                                                                                         
+            <»Net of taxes of $17,200, $(3,399) and $24,954, in 2016, 2015 and 2014. respectively.                                                                                        
+            '4 '1 Net of taxes of $(4,691), $(1,647) and $(2,712), in 2016, 2015 and 2014. respectively,                                                                                  
+            i " Net of taxes of $(643), $736 and $(228), in 2016, 2015 and 2014. respectively.                                                                                            
+            <4>Net of taxes of $(55), $(296) and S17S in 2016, 2015 and 2014. respectively.                                                                                               
+            ,5) Net of taxes of $(52,226) in 2016.                                                                                                                                        
+                                                                                                                                                                                          
+            See notes to consolidated financial statements.                                                                                                                               
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                       40                                                                                                                                                 
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+4<S of 101                                                                                                                                                            8/7/2017 11:59 AM   
+Exhibit                                                        https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...                 
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                          CONSOLIDATED BALANCE SHEETS              
+                                                                                                               (thousands of dollars)              
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                            December 31,                                            
+                                                                                                                                                    
+                                                                   2016                            2015                  2014                       
+            Assets                                                                                                                                  
+                                                                                                                                                    
+            Current assets:                                                                                                                         
+            Cash and cash equivalents                           $           889,793  $             205,744       $             40,732               
+                                                                                                                                                    
+            Accounts receivable, less allowance                           1,230,987                   1,114,275             1,130,565               
+            Inventories:                                                                                                                            
+                                                                                                                                                    
+            Finished goods                                                  898,627                840,603               841,784                    
+            Work in process and raw materials                               169,699                177,927               191,743                    
+                                                                          1,068,326                   1,018,530             1,033,527               
+            Deferred income taxes                                            57,162                      87,883          109,087                    
+                                                                                                                                                    
+            Other current assets                                            381,030                230,748               251,655                    
+            Total current assets                                          3,627,298                   2,657,180             2,565,566               
+                                                                                                                                                    
+            Goodwill                                                      1,126,892                   1,143,333             1,158,346               
+            Intangible assets                                               255,010                255,371               289,127                    
+                                                                                                                                                    
+            Deferred pension assets                                         225,529                244,882               250,144                    
+            Other assets                                                    421,904                436,309               415,120                    
+            Property, plant and equipment:                                                                                                          
+            Land                                                   115,555                         119,530               125,691                    
+                                                                                                                                                    
+            Buildings                                                       714,815                696,202               698,202                    
+            Machinery and equipment                                       2,153,437                   2,026,617             1,952,037               
+                                                                                                                                                    
+            Construction in progress                               117,126                               81,082                59,330               
+                                                                          3,100,933                   2,923,431             2,835,260               
+            Less allowances for depreciation                              2,005,045                   1,881,569             1,814,230               
+                                                                                                                                                    
+                                                                          1,095,888                   1,041,862             1,021,030               
+            Total Assets                                        $         6,752,521  $                5,778,937  $          5,699,333               
+                                                                                                                                                    
+            Liabilities and Shareholders’ Equity                                                                                                    
+            Current liabilities:                                                                                                                    
+                                                                                                                                                    
+            Short-term borrowings                               $            40,739  $                   39,462  $       679,436                    
+            Accounts payable                                              1,034,608                   1,157,561             1,042,182               
+                                                                                                                                                    
+            Compensation and taxes withheld                                 398,045                338,256               360,458                    
+            Accrued taxes                                                    76,765                      81,146                86,744               
+            Current portion of long-term debt                               700,475                       3,154                 3,265               
+            Other accruals                                                  578,547                522,280               508,581                    
+            Total current liabilities                                     2,829,179                   2,141,859             2,680,666               
+                                                                                                                                                    
+                                                                                                                                                    
+            Long-term debt                                                1,211,326                   1,907,278             1,115,996               
+            Postretirement benefits other than pensions                     250,397                     248,523          277,892                    
+            Other long-term liabilities                                     583,178                     613,367               628,309               
+                                                                                                                                                    
+            Shareholders’ equity:                                                                                                                   
+            Common stock - $1.00 par value:                                                                                                         
+                                                                                                                                                    
+            93,013,031, 92,246,525, and 94,704,173 shares outstanding                                                                               
+            at December 31,2016,2015 and 2014, respectively    116,563    115,761    114,525                                                        
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+49 of 101                                                                                                                       8/7/2017 11:59 AM   
+Exhibit                                                     https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...           
+                                                                                                                                           
+                                                                                                                                           
+           Other capital                                          2,488,564                2,330,426                   2,079,639          
+           Retained earnings                                      4,049,497                3,228,876                   2,424,674          
+           Treasury stock, at cost                               (4,235,832)             (4,220,058)                 (3,150,410)          
+           Cumulative other comprehensive loss                    (540,351)                (587,095)                   (471,958)          
+           Total shareholders’ equity                             1,878,441                  867,910                     996,470          
+           Total Liabilities and Shareholders’ Equity        $    6,752,521      $    5,778,937            $    5,699,333                 
+                                                                                                                                          
+           See notes to consolidated financial statements.                                                                                 
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                 41                        
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+50 of 101                                                                                                              8/7/2017 11:59 AM   
+Exhibit                                                                           https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...                       
+                                                                                                                                                                             
+                                                                                                                                                                             
+            STATEMENTS OF CONSOLIDATED CASH FLOWS                                                                                                                            
+            (thousands of dollars)                                                                                                                                           
+                                                                                                                                                                             
+                                                                                                       Year Ended December 31,                                               
+            Operating Activities                                                   2016                                    2015                     2014                    
+            Net income                                                                                                                                                      
+                                                                                   $    1,132,703    $                     1,053,849    $              865,887              
+            Adjustments to reconcile net income to net operating cash:                                                                                                      
+                                                                                                                                                                            
+            Depreciation                                                                                       172,074            170,323              169,087              
+            Amortization of intangible assets                                                                   25,637            28,239                29,858              
+            Impairment of goodwill and trademarks                                                               10,688                                                      
+            Amortization of credit facility and debt issuance costs                                             63,759             3,096                 3,224              
+            Provisions for environmental-related matters                                                        42,932            31,071                36,046              
+            Provisions for qualified exit costs                                                                                                                             
+                                                                                                                 3,038             9,761                13,578              
+            Deferred income taxes                                                                             (68,241)             4,976              (19,038)              
+            Defined benefit pension plans net cost                                                              14,851             6,491                   990              
+            Stock-based compensation expense                                                                    72,109            72,342                64,735              
+            Net decrease in postretirement liability                                                          (12,373)            (6,645)                (718)              
+            Decrease in non-traded investments                                                                  64,689            65,144                63,365              
+            (Gain) loss on sale or disposition of assets                                                      (30,564)             (803)                 1,436              
+            Other                                                                                                                                                           
+                                                                                                                 5,101             3,615               (3,021)              
+            Change in working capital accounts:                                                                                                                             
+                                                                                                                                                                            
+            (Increase) in accounts receivable                                                                (113,855)           (56,873)             (80,252)              
+            (Increase) in inventories                                                                         (52,577)           (40,733)            (101,112)              
+            (Decrease) increase in accounts payable                                                          (118,893)            160,111               78,603              
+            (Decrease) increase in accrued taxes                                                               (2,159)             4,606                13,187              
+            Increase (decrease) in accrued compensation and taxes withheld                                      60,632           (13,128)               29,513              
+            (Increase) decrease in refundable income taxes                                                                                                                  
+                                                                                                               (1,343)            19,230              (36,601)              
+            Other                                                                                               56,215             (955)              (20,029)              
+            Costs incurred for environmental-related matters                                                  (15,178)           (11,995)              (9,676)              
+            Costs incurred for qualified exit costs                                                            (6,267)           (11,200)             (10,882)              
+            Other                                                                                                5,594           (43,059)              (6,652)              
+            Net operating cash                                                                               1,308,572     1,447,463                 1,081,528              
+                                                                                                                                                                             
+            Investing Activities                                                                                                                                             
+            Capital expenditures                                                                       (239,026)          (234,340)                 (200,545)               
+            Proceeds from sale of assets                                                                                                                                    
+                                                                                                          38,434            11,300                      1,516               
+            Increase in other investments                                                              (103,182)           (65,593)                 (111,021)               
+            Net investing cash                                                                         (303,774)          (288,633)                 (310,050)               
+                                                                                                                                                                             
+            Financing Activities                                                                                                                                             
+                                                                                                                                                                             
+            Net (decrease) increase in short-term borrowings                                       (899)            (630,226)                        591,423                
+            Proceeds from long-term debt                                                            500              797,514                           1,474                
+            Payments of long-term debt                                                            (1,111)                                          (500,661)                
+            Payments for credit facility and debt issuance costs                                 (65,119)                                                                   
+            Payments of cash dividends                                                                                                                                      
+                                                                                                 (312,082)          (249,647)                      (215,263)                
+            Proceeds from stock options exercised                                                86,831              89,990                          100,069                
+            Income tax effect of stock-based compensation exercises and vesting                                      89,691                           68,657                
+            Treasury stock purchased                                                                               (1,035,291)                   (1,488,663)                
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+51 of 101                                                                                                                                                 8/7/2017 11:59 AM  
+Exhibit                                                                         https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...     
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+            Other                                                                       (15,473)  (42,384)                           (24,111)           
+                                                                                                                                                        
+            Net financing cash                                                         (307,353)         (980,353)                (1,467,075)           
+            Effect of exchange rate changes on cash                                     (13,396)  (13,465)                            (8,560)           
+                                                                                                                                                        
+            Net increase (decrease) in cash and cash equivalents                         684,049  165,012                           (704,157)           
+            Cash and cash equivalents at beginning of year                               205,744  40,732                              744,889           
+                                                                                                                                                        
+            Cash and cash equivalents at end of year                           $    889,793    $  205,744    $                         40,732           
+                                                                                                                                                        
+            Taxes paid on income                                               $    477,786    $  335,119    $                        310,039           
+                                                                                                                                                        
+            Interest paid on debt                                                        153,850  48,644                               67,306           
+                                                                                                                                                         
+                                                                                                                                                         
+            See notes to consolidated financial statements.                                                                                              
+                                                                                                                                                         
+                                                                                                                                                         
+             42                                                                                                                                          
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+52 of 101                                                                                                                            8/7/2017 11:59 AM   
+Exhibit                                                                         https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/...                         
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                              STATEMENTS OF CONSOLIDATED SHAREHOLDERS’ EQUITY               
+                                                                                                          (thousands of dollars except per common share data)               
+                                                                                                                                                                            
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                 Unearned                                                   Cumulative                      
+                                                                                   ESOP                                                       Other                         
+                                                        Common     Preferred      Compen-           Other        Retained     Treasury     Comprehensive                    
+                                                        Stock        Stock        sation           Capital       Earnings       Stock          Loss         Total           
+                                                                                                                                                                            
+            Balance at January 1,2014                $    112,902 $    40,406  $    (40,406)        $ 1,847,801 $ 1,774,050  $(1,639,174) $    (321,044) $ 1,774,535        
+            Net income                                                                                                                                                      
+                                                                                                                    865,887                                  865,887        
+            Other comprehensive loss                                                                                                           (150,914)   (150,914)        
+            Treasury stock, purchased                                                                                                                                       
+                                                                                                                             (1,488,663)                 (1,488,663)        
+            Redemption of preferred stock                            (40,406)         40,406                                                                                
+            Stock options exercised                                                                                                                                         
+                                                            1,423                                        98,646                  (22,573)                     77,496        
+            Income tax effect of stock compensation                                                      68,657                                               68,657        
+                                                                                                                                                                            
+            Restricted stock and stock option grants                                                                                                                        
+            (net activity)                                    200                                        64,535                                               64,735        
+            Cash dividends -- $2.20 per common share                                                              (215,263)                                (215,263)        
+            Balance at December 31, 2014                                  ---            ---                                                                                
+                                                          114,525                                     2,079,639   2,424,674  (3,150,410)       (471,958)     996,470        
+            Net income                                                                                                                                                      
+                                                                                                                  1,053,849                                1,053,849        
+            Other comprehensive loss                                                                                                           (115,137)   (115,137)        
+            Treasury stock purchased                                                                                                                                        
+                                                                                                                             (1,035,291)                 (1,035,291)        
+            Stock options exercised                         1,134                                        88,856                  (34,357)                     55,633        
+            Income tax effect of stock compensation                                                                                                                         
+                                                                                                         89,691                                               89,691        
+            Restricted stock and stock option grants                                                                                                                        
+            (net activity)                                    102                                        72,240                                               72,342        
+            Cash dividends -- $2.68 per common share                                                                                                                        
+                                                                                                                  (249,647)                                (249,647)        
+            Balance at December 31,2015                                   ---            ---                                                                                
+                                                          115,761                                     2,330,426   3,228,876  (4,220,058)       (587,095)     867,910        
+            Net income                                                                                            1,132,703                                1,132,703        
+            Other comprehensive income                                                                                                                                      
+                                                                                                                                                  46,744      46,744        
+            Stock options exercised                           706                                        86,125                  (15,774)                     71,057        
+                                                                                                                                                                            
+            Restricted stock and stock option grants                                                                                                                        
+            (net activity)                                     96                                        72,013                                               72,109        
+            Cash dividends - $3.36 per common share                                                               (312,082)                                (312,082)        
+                                                                                                                                                                            
+            Balance at December 31,2016              $    116,563 $ -          $ -                  $ 2,488,564 $ 4,049,497 $ (4,235,832) $    (540,351) $ 1,878,441        
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+53 of 101                                                                                                                                                 8/7/2017 11:59 AM  

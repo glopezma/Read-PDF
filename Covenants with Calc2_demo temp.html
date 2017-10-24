@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<script src="./jquery-1.12.3.min.js" type="text/javascript"></script>
+
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <input type="button" id="compileButton" onclick="compileFunction()" value="Compile Distribution" />
+    <div></div>
+    <p id="testParagraph"></p>
+    <input type="button" id="nextButton" onclick="nextFunction()" value="Next" style="display:none"/>
+    <br />
+    <br />
+    <p id="resultParagraph"></p>
+    <script>
+        var CovenantsWithCalc;
+        $.get('Covenants with Calc2.txt', function (data) {
+            CovenantsWithCalc = data;
+        });
+        var indexItems = [];
+        var lengthItems = [];
+        var spaceItems = [];
+        var moneyItems = [];
+        function compileFunction() {
+            console.log(CovenantsWithCalc)
+            tempCovenants = CovenantsWithCalc;
+            var listItems = tempCovenants.match(/a [\w*\s*\n*]* of/g);
+            //  /a 
+            for (var i = 0; i < listItems.length; i++) {
+                var tempIndex = tempCovenants.indexOf(listItems[i])
+                indexItems.push(tempIndex);
+                var tempLength = listItems[i].length;
+                lengthItems.push(tempLength);
+                //tempCovenants = tempCovenants.substr(tempIndex + 3)
+            }
+            $('#nextButton').show();
+        }
+        var curItem = 0;
+        function nextFunction() {
+            if(curItem<indexItems.length){
+                console.log(indexItems[curItem], lengthItems[curItem])
+                $('#testParagraph').append(CovenantsWithCalc.substr(indexItems[curItem] + 2, lengthItems[curItem] - 5) + "---");
+                var spaceAt = CovenantsWithCalc.substr(indexItems[curItem] + lengthItems[curItem] + 4).indexOf(" ");
+                spaceItems.push(spaceAt);
+                $('#testParagraph').append(CovenantsWithCalc.substr(indexItems[curItem] + lengthItems[curItem] + 1, spaceItems[curItem] + 3) + "---");
+                
+                moneyItems.push(CovenantsWithCalc.substr(indexItems[curItem] + lengthItems[curItem] + 4 + spaceItems[curItem] + 1).indexOf(". "));
+                $('#testParagraph').append(CovenantsWithCalc.substr(indexItems[curItem] + lengthItems[curItem] + 4 + spaceItems[curItem] + 1, moneyItems[curItem]-1) + "---<br><br>");
+                if (curItem < indexItems.length - 1) {
+                    //indexItems[curItem + 1] = indexItems[curItem] + indexItems[curItem + 1]
+                }
+                else {
+                    $('#nextButton').hide();
+                }
+            }
+            curItem = curItem + 1;
+        }
+
+    </script>
+</body>
+</html>

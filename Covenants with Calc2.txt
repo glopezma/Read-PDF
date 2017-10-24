@@ -1,0 +1,26 @@
+﻿CONTINUATION OF ADDENDUM                                                                                
+                                                                                                         
+                                          FINANCIAL COVENANTS                                            
+(1) The Borrower will maintain at all times a Tangible Net Worth of at least $4,050,000.00. to be        
+increased on the last day of each fiscal year commencing on December 31, 2012 by an amount equal to      
+50% of the Borrower’s net income (if a positive number) for the fiscal year then ending.                 
+(2) The Borrower will maintain as of the end of each fiscal year, a Consolidated Debt Service            
+Coverage Ratio of at least 1.25 to 1.00.                                                                 
+As used herein:                                                                                          
+“Current Maturities” means the scheduled payments of principal on all indebtedness for borrowed          
+money having an original term of more than one year (including but not limited to amortization of        
+capitalized lease obligations), as shown on the Borrower’s Financial Statements as of one year prior to  
+the date of determination.                                                                               
+“Consolidated Debt Service Coverage Ratio” means (i) consolidated net income of Borrower plus            
+consolidated interest expense, plus consolidated depreciation, plus consolidated amortization, less          
+consolidated income tax expense, less consolidated Unfunded Capital Expenditures, less consolidated      
+dividends, less consolidated treasury stock purchases divided by (ii) the sum of consolidated Current    
+Maturities plus consolidated interest expense.                                                           
+“Subordinated Debt” means indebtedness that has been subordinated to the Borrower's indebtedness to      
+the Bank pursuant to a subordination agreement in form and content satisfactory to the Bank.             
+“Tangible Net Worth” means stockholders’ equity in the Borrower less any advances to affiliated          
+parties less all items properly classified as intangibles, plus Subordinated Debt.                       
+“Unfunded Capital Expenditures” means capital expenditures made from the Borrowers funds other           
+than funds borrowed as term debt to finance such capital expenditures.                                   
+All of the above financial covenants shall be computed and determined in accordance with GAAP            
+applied on a consistent basis (subject to normal year-end adjustments).                                  
